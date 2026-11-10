@@ -1,0 +1,94 @@
+Person,Role,Team,ProjectId,Month,Allocation
+Marek Novak,Enterprise Architect,Architecture,P-101,2026-11,60
+Rafael Ortiz,Release Train Engineer,Claims ART,P-101,2026-11,100
+Marek Novak,Enterprise Architect,Architecture,P-101,2026-12,60
+Rafael Ortiz,Release Train Engineer,Claims ART,P-101,2026-12,100
+Marek Novak,Enterprise Architect,Architecture,P-101,2027-01,60
+Rafael Ortiz,Release Train Engineer,Claims ART,P-101,2027-01,100
+Jonas Berg,Business Analyst,Business Analysis,P-102,2026-11,40
+Chen Wei,Project Manager,PMO,P-102,2026-11,50
+Jonas Berg,Business Analyst,Business Analysis,P-102,2026-12,40
+Chen Wei,Project Manager,PMO,P-102,2026-12,50
+Jonas Berg,Business Analyst,Business Analysis,P-102,2027-01,40
+Chen Wei,Project Manager,PMO,P-102,2027-01,50
+Oliver Grant,Project Manager,PMO,P-103,2026-11,50
+Oliver Grant,Project Manager,PMO,P-103,2026-12,50
+Oliver Grant,Project Manager,PMO,P-103,2027-01,50
+Marek Novak,Enterprise Architect,Architecture,P-104,2026-11,60
+Daniel Ross,Project Manager,PMO,P-104,2026-11,100
+Aoife Byrne,Test Manager,Quality Engineering,P-104,2026-11,50
+Marek Novak,Enterprise Architect,Architecture,P-104,2026-12,60
+Daniel Ross,Project Manager,PMO,P-104,2026-12,100
+Aoife Byrne,Test Manager,Quality Engineering,P-104,2026-12,50
+Marek Novak,Enterprise Architect,Architecture,P-104,2027-01,60
+Daniel Ross,Project Manager,PMO,P-104,2027-01,100
+Aoife Byrne,Test Manager,Quality Engineering,P-104,2027-01,50
+Jonas Berg,Business Analyst,Business Analysis,P-105,2026-11,40
+Sofia Marín,Product Owner,Claims ART,P-105,2026-11,80
+Jonas Berg,Business Analyst,Business Analysis,P-105,2026-12,40
+Sofia Marín,Product Owner,Claims ART,P-105,2026-12,80
+Jonas Berg,Business Analyst,Business Analysis,P-106,2026-11,20
+Oliver Grant,Project Manager,PMO,P-106,2026-11,40
+Jonas Berg,Business Analyst,Business Analysis,P-106,2026-12,20
+Oliver Grant,Project Manager,PMO,P-106,2026-12,40
+Jonas Berg,Business Analyst,Business Analysis,P-106,2027-01,20
+Oliver Grant,Project Manager,PMO,P-106,2027-01,40
+Marek Novak,Enterprise Architect,Architecture,P-201,2026-11,60
+Mark Ellis,Release Train Engineer,Distribution ART,P-201,2026-11,100
+Marek Novak,Enterprise Architect,Architecture,P-201,2026-12,60
+Mark Ellis,Release Train Engineer,Distribution ART,P-201,2026-12,100
+Marek Novak,Enterprise Architect,Architecture,P-201,2027-01,60
+Mark Ellis,Release Train Engineer,Distribution ART,P-201,2027-01,100
+Hannah Kowalski,Product Owner,Digital,P-202,2026-11,100
+Hannah Kowalski,Product Owner,Digital,P-202,2026-12,100
+Hannah Kowalski,Product Owner,Digital,P-202,2027-01,100
+Samir Haddad,Project Manager,PMO,P-203,2026-11,60
+Samir Haddad,Project Manager,PMO,P-203,2026-12,60
+Samir Haddad,Project Manager,PMO,P-203,2027-01,60
+Lucy Brennan,Project Manager,PMO,P-204,2026-11,70
+Aoife Byrne,Test Manager,Quality Engineering,P-204,2026-11,50
+Lucy Brennan,Project Manager,PMO,P-204,2026-12,70
+Aoife Byrne,Test Manager,Quality Engineering,P-204,2026-12,50
+Lucy Brennan,Project Manager,PMO,P-204,2027-01,70
+Aoife Byrne,Test Manager,Quality Engineering,P-204,2027-01,50
+Samir Haddad,Project Manager,PMO,P-205,2026-11,40
+Samir Haddad,Project Manager,PMO,P-205,2026-12,40
+Samir Haddad,Project Manager,PMO,P-205,2027-01,40
+Lucy Brennan,Project Manager,PMO,P-206,2026-11,30
+Lucy Brennan,Project Manager,PMO,P-206,2026-12,30
+Lucy Brennan,Project Manager,PMO,P-206,2027-01,30
+Grace Liu,Project Manager,PMO,P-301,2026-11,60
+Pedro Alves,Security Architect,Security,P-301,2026-11,30
+Elif Demir,Solution Architect,Architecture,P-301,2026-11,50
+Grace Liu,Project Manager,PMO,P-301,2026-12,60
+Pedro Alves,Security Architect,Security,P-301,2026-12,30
+Elif Demir,Solution Architect,Architecture,P-301,2026-12,50
+Grace Liu,Project Manager,PMO,P-301,2027-01,60
+Pedro Alves,Security Architect,Security,P-301,2027-01,30
+Elif Demir,Solution Architect,Architecture,P-301,2027-01,50
+Chen Wei,Project Manager,PMO,P-302,2026-11,50
+Elif Demir,Solution Architect,Architecture,P-302,2026-11,30
+,Cloud Engineer,Cloud Platform,P-302,2026-12,100
+Chen Wei,Project Manager,PMO,P-302,2026-12,50
+Elif Demir,Solution Architect,Architecture,P-302,2026-12,30
+,Cloud Engineer,Cloud Platform,P-302,2027-01,100
+Chen Wei,Project Manager,PMO,P-302,2027-01,50
+Elif Demir,Solution Architect,Architecture,P-302,2027-01,30
+Grace Liu,Project Manager,PMO,P-303,2026-11,40
+Pedro Alves,Security Architect,Security,P-303,2026-11,40
+Elif Demir,Solution Architect,Architecture,P-303,2026-11,20
+Grace Liu,Project Manager,PMO,P-303,2026-12,40
+Pedro Alves,Security Architect,Security,P-303,2026-12,40
+Elif Demir,Solution Architect,Architecture,P-303,2026-12,20
+Grace Liu,Project Manager,PMO,P-303,2027-01,40
+Pedro Alves,Security Architect,Security,P-303,2027-01,40
+Elif Demir,Solution Architect,Architecture,P-303,2027-01,20
+Tom Fischer,Project Manager,Infrastructure,P-304,2026-11,80
+Tom Fischer,Project Manager,Infrastructure,P-304,2026-12,80
+Tom Fischer,Project Manager,Infrastructure,P-304,2027-01,80
+Nadia Petrova,Project Manager,PMO,P-305,2026-11,50
+Nadia Petrova,Project Manager,PMO,P-305,2026-12,50
+Nadia Petrova,Project Manager,PMO,P-305,2027-01,50
+Nadia Petrova,Project Manager,PMO,P-306,2026-11,50
+Nadia Petrova,Project Manager,PMO,P-306,2026-12,50
+Nadia Petrova,Project Manager,PMO,P-306,2027-01,50

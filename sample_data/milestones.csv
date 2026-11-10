@@ -1,0 +1,65 @@
+ProjectId,Milestone,BaselineDate,ForecastDate,ActualDate,Gate,GateApproval
+P-101,Discovery complete (G1),2025-11-07,,2025-11-07,Yes,SteerCo 2025-11-13
+P-101,MVP live,2026-08-01,,2026-08-04,No,
+P-101,Full release (G4),2027-06-30,2027-06-30,,Yes,
+P-102,Discovery complete (G1),2026-04-07,,2026-04-08,Yes,SteerCo 2026-04-09
+P-102,MVP live,2026-08-29,,2026-09-04,No,
+P-102,Full release (G4),2027-02-26,2027-02-28,,Yes,
+P-103,Design approved (G2),2026-06-30,,2026-07-05,Yes,SteerCo 2026-07-09
+P-103,Build complete,2026-09-18,,2026-09-23,No,
+P-103,UAT complete,2026-10-30,,,No,
+P-103,Go-live (G4),2026-12-18,2027-01-16,,Yes,
+P-104,Design approved (G2),2026-05-19,,2026-05-21,Yes,SteerCo 2026-05-21
+P-104,Build complete,2026-10-16,2026-11-27,,No,
+P-104,UAT complete,2027-01-06,2027-01-09,,No,
+P-104,Go-live (G4),2027-03-31,2027-04-01,,Yes,
+P-105,Discovery complete (G1),2026-05-01,,2026-05-02,Yes,SteerCo 2026-05-10
+P-105,MVP live,2026-08-08,,2026-08-13,No,
+P-105,Full release (G4),2026-12-11,2026-12-13,,Yes,
+P-106,Design approved (G2),2026-07-31,,2026-08-01,Yes,SteerCo 2026-08-07
+P-106,Build complete,2026-10-24,,2026-10-29,No,
+P-106,UAT complete,2026-12-12,2026-12-17,,No,
+P-106,Go-live (G4),2027-01-29,2027-02-03,,Yes,
+P-201,Discovery complete (G1),2026-02-25,,2026-03-01,Yes,SteerCo 2026-02-28
+P-201,MVP live,2026-08-19,,2026-08-20,No,
+P-201,Full release (G4),2027-03-26,2027-06-02,,Yes,
+P-202,Discovery complete (G1),2026-03-10,,2026-03-11,Yes,SteerCo 2026-03-15
+P-202,MVP live,2026-08-01,,2026-08-01,No,
+P-202,Full release (G4),2027-01-29,2027-01-31,,Yes,
+P-203,Discovery complete (G1),2026-05-15,,2026-05-20,Yes,SteerCo 2026-05-23
+P-203,MVP live,2026-09-20,,2026-09-22,No,
+P-203,Full release (G4),2027-02-26,2027-03-02,,Yes,
+P-204,Design approved (G2),2026-02-13,,2026-02-16,Yes,SteerCo 2026-02-16
+P-204,Build complete,2026-07-07,,2026-07-08,No,
+P-204,UAT complete,2026-09-27,,2026-10-03,No,
+P-204,Go-live (G4),2026-12-18,2027-02-14,,Yes,
+P-205,Design approved (G2),2026-07-26,,2026-07-27,Yes,SteerCo 2026-07-30
+P-205,Build complete,2026-09-22,,2026-09-28,No,
+P-205,UAT complete,2026-10-25,,2026-10-31,No,
+P-205,Go-live (G4),2026-11-27,2026-11-28,,Yes,
+P-206,Discovery complete (G1),2026-07-25,,2026-07-25,Yes,SteerCo 2026-08-02
+P-206,MVP live,2026-10-10,,2026-10-16,No,
+P-206,Full release (G4),2027-01-15,2027-01-15,,Yes,
+P-301,Design approved (G2),2026-02-18,,2026-02-23,Yes,SteerCo 2026-02-25
+P-301,Build complete,2026-08-27,,2026-08-28,No,
+P-301,UAT complete,2026-12-13,2026-12-14,,No,
+P-301,Go-live (G4),2027-03-31,2027-03-31,,Yes,
+P-302,Discovery complete (G1),2026-06-09,,2026-06-13,Yes,SteerCo 2026-06-18
+P-302,MVP live,2026-10-31,,2026-11-05,No,
+P-302,Full release (G4),2027-04-30,2027-05-03,,Yes,
+P-303,Design approved (G2),2026-06-23,,2026-06-24,Yes,SteerCo 2026-06-25
+P-303,Build complete,2026-10-17,,2026-10-18,No,
+P-303,UAT complete,2026-12-22,2026-12-25,,No,
+P-303,Go-live (G4),2027-02-26,2027-03-03,,Yes,
+P-304,Design approved (G2),2026-05-24,,2026-05-29,Yes,SteerCo 2026-05-31
+P-304,Build complete,2026-09-18,,2026-09-19,No,
+P-304,UAT complete,2026-11-23,2026-11-28,,No,
+P-304,Go-live (G4),2027-01-29,2027-01-30,,Yes,
+P-305,Design approved (G2),2026-04-07,,2026-04-11,Yes,SteerCo 2026-04-10
+P-305,Build complete,2026-08-04,,2026-08-05,No,
+P-305,UAT complete,2026-10-11,,2026-10-12,No,
+P-305,Go-live (G4),2026-12-18,2026-12-18,,Yes,
+P-306,Design approved (G2),2026-04-11,,2026-04-14,Yes,SteerCo 2026-04-14
+P-306,Build complete,2026-07-14,,2026-07-20,No,
+P-306,UAT complete,2026-09-06,,2026-09-10,No,
+P-306,Go-live (G4),2026-10-30,,2026-10-31,Yes,SteerCo 2026-11-05

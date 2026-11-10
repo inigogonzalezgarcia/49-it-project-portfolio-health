@@ -1,0 +1,19 @@
+ProjectId,Name,Programme,Sponsor,ProjectManager,Methodology,Phase,Start,PlannedEnd,ForecastEnd,BudgetApproved,ActualToDate,ForecastAtCompletion,PercentComplete,PointsDone,PointsTotal,BenefitAnnual,BenefitOwner,Priority,RagReported,LastStatusUpdate
+P-101,Claims platform replacement,Claims Transformation,Helen Ashworth,Rafael Ortiz,SAFe ART,Build (PI 26.4),2025-09-01,2027-06-30,2027-06-30,4800000,3131000,4896000,,3619,5720,1900000,Laura Medina,1,GREEN,2026-11-06
+P-102,Fraud analytics models,Claims Transformation,Helen Ashworth,Chen Wei,Agile,Build,2026-03-02,2027-02-26,2027-02-26,650000,465000,650000,,540,770,800000,Laura Medina,2,GREEN,2026-11-05
+P-103,Claims telephony to Teams Phone,Claims Transformation,Helen Ashworth,Oliver Grant,Waterfall,Build,2026-05-04,2026-12-18,2027-01-15,420000,350000,437000,81,,,120000,Laura Medina,2,AMBER,2026-11-03
+P-104,Claims document capture,Claims Transformation,Helen Ashworth,Daniel Ross,Waterfall,Build,2026-02-02,2027-03-31,2027-03-31,1200000,922000,1224000,60,,,600000,Laura Medina,1,GREEN,2026-11-04
+P-105,Motor claims self-service,Claims Transformation,Helen Ashworth,Sofia Marín,Agile,Release,2026-04-06,2026-12-11,2026-12-11,380000,323000,376000,,378,440,250000,Laura Medina,2,GREEN,2026-11-06
+P-106,Policy administration automation (RPA),Claims Transformation,Helen Ashworth,Oliver Grant,Waterfall,Build,2026-06-01,2027-01-29,2027-01-29,310000,203000,310000,65,,,450000,,2,GREEN,2026-11-02
+P-201,Broker portal,Digital Distribution,Tomás Arenas,Mark Ellis,SAFe ART,Build (PI 26.4),2026-01-12,2027-03-26,2027-05-28,2100000,913000,2268000,,420,1050,1200000,Inês Duarte,1,AMBER,2026-11-06
+P-202,Customer app 3.0,Digital Distribution,Tomás Arenas,Hannah Kowalski,Agile,Build,2026-02-02,2027-01-29,2027-01-29,900000,715000,918000,,794,1030,700000,Inês Duarte,2,GREEN,2026-11-05
+P-203,Home insurance quote and buy,Digital Distribution,Tomás Arenas,Samir Haddad,Agile,Build,2026-04-13,2027-02-26,2027-02-26,1400000,926000,1442000,,654,1030,1100000,Inês Duarte,1,GREEN,2026-11-06
+P-204,CRM consolidation on Dynamics 365,Digital Distribution,Tomás Arenas,Lucy Brennan,Waterfall,Test,2025-11-03,2026-12-18,2027-02-12,1600000,1390000,1712000,82,,,500000,Inês Duarte,2,AMBER,2026-11-02
+P-205,E-signature for policies,Digital Distribution,Tomás Arenas,Samir Haddad,Waterfall,Deploy,2026-06-15,2026-11-27,2026-11-27,240000,209000,240000,87,,,180000,Inês Duarte,2,AMBER,2026-11-06
+P-206,Marketing website CMS move,Digital Distribution,Tomás Arenas,Lucy Brennan,Agile,Build,2026-07-06,2027-01-15,2027-01-15,280000,183000,280000,,181,280,90000,Inês Duarte,3,GREEN,2026-11-05
+P-301,Data centre exit to Azure,Core IT & Infrastructure,Priya Raman,Grace Liu,Waterfall,Migrate (wave 4 of 6),2025-10-06,2027-03-31,2027-03-31,3900000,2854000,4017000,71,,,1400000,Alan Pierce,1,GREEN,2026-11-05
+P-302,Data platform migration,Core IT & Infrastructure,Priya Raman,Chen Wei,Agile,Build,2026-05-04,2027-04-30,2027-04-30,1100000,573000,1100000,,393,770,400000,Alan Pierce,2,GREEN,2026-11-04
+P-303,Identity modernisation (Entra ID),Core IT & Infrastructure,Priya Raman,Grace Liu,Waterfall,Build,2026-04-01,2027-02-26,2027-02-26,760000,517000,768000,66,,,150000,Alan Pierce,2,GREEN,2026-11-05
+P-304,Network refresh wave 3,Core IT & Infrastructure,Priya Raman,Tom Fischer,Waterfall,Deploy,2026-03-02,2027-01-29,2027-01-29,1300000,968000,1300000,74,,,,,2,GREEN,2026-11-04
+P-305,Windows 11 and Intune rollout,Core IT & Infrastructure,Priya Raman,Nadia Petrova,Waterfall,Deploy,2026-01-12,2026-12-18,2026-12-18,850000,740000,850000,87,,,120000,Alan Pierce,2,GREEN,2026-10-06
+P-306,Intranet redesign,Core IT & Infrastructure,Priya Raman,Nadia Petrova,Waterfall,Build,2026-02-02,2026-10-30,2027-01-29,520000,476000,650000,75,,,60000,Maria Lopes,3,RED,2026-11-04

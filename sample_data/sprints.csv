@@ -1,0 +1,49 @@
+ProjectId,Team,Sprint,StartDate,EndDate,CommittedPoints,CompletedPoints,AddedPoints
+P-101,Claims platform replacement team,PI 26.3 I1,2026-08-15,2026-08-28,126,121,2
+P-101,Claims platform replacement team,PI 26.3 I2,2026-08-29,2026-09-11,123,120,5
+P-101,Claims platform replacement team,PI 26.3 I3,2026-09-12,2026-09-25,124,118,7
+P-101,Claims platform replacement team,PI 26.3 I4,2026-09-26,2026-10-09,129,122,6
+P-101,Claims platform replacement team,PI 26.4 I1,2026-10-10,2026-10-23,130,118,8
+P-101,Claims platform replacement team,PI 26.4 I2,2026-10-24,2026-11-06,117,115,0
+P-102,Fraud analytics models team,Sprint 20,2026-08-15,2026-08-28,31,30,0
+P-102,Fraud analytics models team,Sprint 21,2026-08-29,2026-09-11,30,30,2
+P-102,Fraud analytics models team,Sprint 22,2026-09-12,2026-09-25,31,29,0
+P-102,Fraud analytics models team,Sprint 23,2026-09-26,2026-10-09,30,30,0
+P-102,Fraud analytics models team,Sprint 24,2026-10-10,2026-10-23,33,30,0
+P-102,Fraud analytics models team,Sprint 25,2026-10-24,2026-11-06,31,29,2
+P-105,Motor claims self-service team,Sprint 20,2026-08-15,2026-08-28,24,24,0
+P-105,Motor claims self-service team,Sprint 21,2026-08-29,2026-09-11,25,24,1
+P-105,Motor claims self-service team,Sprint 22,2026-09-12,2026-09-25,27,25,0
+P-105,Motor claims self-service team,Sprint 23,2026-09-26,2026-10-09,25,25,0
+P-105,Motor claims self-service team,Sprint 24,2026-10-10,2026-10-23,26,25,0
+P-105,Motor claims self-service team,Sprint 25,2026-10-24,2026-11-06,28,26,1
+P-201,Broker portal team,PI 26.3 I1,2026-08-15,2026-08-28,52,44,40
+P-201,Broker portal team,PI 26.3 I2,2026-08-29,2026-09-11,50,42,45
+P-201,Broker portal team,PI 26.3 I3,2026-09-12,2026-09-25,52,45,50
+P-201,Broker portal team,PI 26.3 I4,2026-09-26,2026-10-09,41,31,55
+P-201,Broker portal team,PI 26.4 I1,2026-10-10,2026-10-23,41,29,55
+P-201,Broker portal team,PI 26.4 I2,2026-10-24,2026-11-06,34,27,55
+P-202,Customer app 3.0 team,Sprint 20,2026-08-15,2026-08-28,42,39,2
+P-202,Customer app 3.0 team,Sprint 21,2026-08-29,2026-09-11,42,39,1
+P-202,Customer app 3.0 team,Sprint 22,2026-09-12,2026-09-25,44,41,0
+P-202,Customer app 3.0 team,Sprint 23,2026-09-26,2026-10-09,41,40,1
+P-202,Customer app 3.0 team,Sprint 24,2026-10-10,2026-10-23,43,41,1
+P-202,Customer app 3.0 team,Sprint 25,2026-10-24,2026-11-06,44,40,2
+P-203,Home insurance quote and buy team,Sprint 20,2026-08-15,2026-08-28,48,47,1
+P-203,Home insurance quote and buy team,Sprint 21,2026-08-29,2026-09-11,44,44,1
+P-203,Home insurance quote and buy team,Sprint 22,2026-09-12,2026-09-25,48,46,3
+P-203,Home insurance quote and buy team,Sprint 23,2026-09-26,2026-10-09,45,45,0
+P-203,Home insurance quote and buy team,Sprint 24,2026-10-10,2026-10-23,49,45,2
+P-203,Home insurance quote and buy team,Sprint 25,2026-10-24,2026-11-06,47,45,2
+P-206,Marketing website CMS move team,Sprint 20,2026-08-15,2026-08-28,20,19,1
+P-206,Marketing website CMS move team,Sprint 21,2026-08-29,2026-09-11,22,20,0
+P-206,Marketing website CMS move team,Sprint 22,2026-09-12,2026-09-25,22,20,0
+P-206,Marketing website CMS move team,Sprint 23,2026-09-26,2026-10-09,21,20,1
+P-206,Marketing website CMS move team,Sprint 24,2026-10-10,2026-10-23,21,19,0
+P-206,Marketing website CMS move team,Sprint 25,2026-10-24,2026-11-06,22,20,1
+P-302,Data platform migration team,Sprint 20,2026-08-15,2026-08-28,31,30,1
+P-302,Data platform migration team,Sprint 21,2026-08-29,2026-09-11,34,31,1
+P-302,Data platform migration team,Sprint 22,2026-09-12,2026-09-25,31,30,2
+P-302,Data platform migration team,Sprint 23,2026-09-26,2026-10-09,30,30,0
+P-302,Data platform migration team,Sprint 24,2026-10-10,2026-10-23,32,30,2
+P-302,Data platform migration team,Sprint 25,2026-10-24,2026-11-06,30,30,2

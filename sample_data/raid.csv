@@ -1,0 +1,74 @@
+ProjectId,Id,Type,Title,Probability,Impact,Owner,DueDate,Status,LastReviewed
+P-101,101-01,Dependency,Identity platform release needed first,Low,Medium,Rafael Ortiz,2026-11-23,Open,2026-11-07
+P-101,101-02,Assumption,Existing interfaces stay as they are,Medium,Medium,Jonas Berg,2026-12-15,Open,2026-11-01
+P-101,101-03,Assumption,Existing interfaces stay as they are,Medium,Medium,Alan Pierce,2026-10-08,Closed,2026-10-27
+P-101,101-04,Dependency,Network change window from the infrastructure team,Low,High,Jonas Berg,2027-01-08,Mitigating,2026-10-22
+P-102,102-01,Risk,Business users not available for UAT,Medium,Low,Chen Wei,2027-01-03,Mitigating,2026-11-02
+P-102,102-02,Issue,Vendor delivery slipped by one sprint,,Medium,Chen Wei,2026-10-11,Closed,2026-10-29
+P-102,102-03,Risk,Business users not available for UAT,Low,High,Alan Pierce,2026-10-07,Closed,2026-11-06
+P-103,103-01,Assumption,Existing interfaces stay as they are,Medium,High,Alan Pierce,2026-10-17,Closed,2026-11-08
+P-103,103-02,Risk,Licence costs higher than the business case,Medium,Medium,Jonas Berg,2026-12-30,Open,2026-10-23
+P-103,103-03,Dependency,Network change window from the infrastructure team,Low,Medium,Oliver Grant,2026-12-17,Open,2026-10-24
+P-103,103-04,Issue,Vendor delivery slipped by one sprint,,High,Oliver Grant,2026-10-16,Closed,2026-10-23
+P-104,104-01,Issue,Vendor delivery slipped by one sprint,,Low,Marta Silva,2026-12-06,Mitigating,2026-10-21
+P-104,104-02,Risk,Data quality lower than assumed,Medium,Low,Jonas Berg,2026-12-15,Open,2026-11-05
+P-104,104-03,Issue,Integration defects found in SIT,,High,Daniel Ross,2026-09-18,Closed,2026-10-26
+P-105,105-01,Risk,Key supplier resource leaves,Medium,High,Marta Silva,2026-12-24,Open,2026-11-02
+P-105,105-02,Risk,Key supplier resource leaves,Low,Low,Sofia Marín,2026-12-29,Open,2026-10-29
+P-105,105-03,Risk,Key supplier resource leaves,Low,Medium,Sofia Marín,2027-01-09,Open,2026-10-31
+P-105,105-04,Risk,Licence costs higher than the business case,Low,Low,Marta Silva,2026-12-03,Open,2026-11-05
+P-106,106-01,Risk,Licence costs higher than the business case,Low,High,Oliver Grant,2026-10-21,Closed,2026-10-30
+P-106,106-02,Assumption,Existing interfaces stay as they are,Low,Medium,Oliver Grant,2027-01-04,Open,2026-11-08
+P-106,106-03,Risk,Test environment not ready in time,Medium,Medium,Marta Silva,2026-11-22,Open,2026-11-02
+P-106,106-04,Dependency,Network change window from the infrastructure team,Medium,Medium,Alan Pierce,2026-11-19,Mitigating,2026-11-05
+P-106,106-05,Issue,Vendor delivery slipped by one sprint,,Medium,Oliver Grant,2026-11-23,Open,2026-11-07
+P-201,201-01,Dependency,Identity platform release needed first,Low,Low,Marta Silva,2026-09-15,Closed,2026-10-23
+P-201,201-02,Assumption,Existing interfaces stay as they are,Medium,High,Alan Pierce,2026-11-21,Open,2026-11-03
+P-201,201-03,Issue,Vendor delivery slipped by one sprint,,High,Alan Pierce,2027-01-16,Open,2026-10-28
+P-202,202-01,Dependency,Network change window from the infrastructure team,Medium,Low,Hannah Kowalski,2026-12-16,Open,2026-11-02
+P-202,202-02,Risk,Key supplier resource leaves,Medium,High,Hannah Kowalski,2026-12-26,Open,2026-10-27
+P-202,202-03,Dependency,Network change window from the infrastructure team,Low,Medium,Hannah Kowalski,2027-01-13,Open,2026-11-01
+P-202,202-04,Risk,Key supplier resource leaves,Medium,Medium,Jonas Berg,2026-12-07,Open,2026-10-30
+P-202,202-05,Assumption,Existing interfaces stay as they are,Low,Medium,Marta Silva,2026-12-03,Open,2026-10-28
+P-203,203-01,Risk,Key supplier resource leaves,Medium,Low,Marta Silva,2026-10-06,Closed,2026-10-29
+P-203,203-02,Risk,Business users not available for UAT,Low,Low,Alan Pierce,2026-12-06,Mitigating,2026-10-26
+P-203,203-03,Assumption,Existing interfaces stay as they are,Medium,Medium,Marta Silva,2026-11-25,Open,2026-10-22
+P-203,203-04,Assumption,Existing interfaces stay as they are,Low,High,Marta Silva,2026-12-27,Open,2026-10-29
+P-203,203-05,Dependency,Identity platform release needed first,Medium,Low,Samir Haddad,2027-01-16,Mitigating,2026-10-26
+P-204,204-01,Issue,Integration defects found in SIT,,High,Lucy Brennan,2027-01-07,Open,2026-11-04
+P-204,204-02,Assumption,Existing interfaces stay as they are,Medium,Medium,Lucy Brennan,2026-11-23,Open,2026-11-03
+P-204,204-03,Issue,Integration defects found in SIT,,High,Lucy Brennan,2026-10-24,Closed,2026-11-04
+P-204,204-04,Risk,Key supplier resource leaves,Medium,High,Lucy Brennan,2026-10-20,Closed,2026-10-31
+P-205,205-01,Risk,Test environment not ready in time,Low,Low,Samir Haddad,2026-10-18,Closed,2026-10-21
+P-205,205-02,Issue,Integration defects found in SIT,,High,Marta Silva,2027-01-02,Open,2026-10-30
+P-205,205-03,Issue,Integration defects found in SIT,,Medium,Alan Pierce,2027-01-05,Open,2026-11-06
+P-205,205-04,Issue,Integration defects found in SIT,,Medium,Jonas Berg,2026-12-25,Open,2026-11-03
+P-206,206-01,Risk,Key supplier resource leaves,Low,Medium,Jonas Berg,2026-12-25,Mitigating,2026-10-22
+P-206,206-02,Risk,Key supplier resource leaves,Low,Low,Lucy Brennan,2026-10-24,Closed,2026-11-07
+P-206,206-03,Risk,Licence costs higher than the business case,Low,Medium,Marta Silva,2027-01-17,Mitigating,2026-10-31
+P-301,301-01,Assumption,Existing interfaces stay as they are,Medium,Medium,Marta Silva,2027-01-14,Open,2026-11-04
+P-301,301-02,Risk,Business users not available for UAT,Low,Low,Marta Silva,2026-12-14,Open,2026-10-27
+P-301,301-03,Assumption,Existing interfaces stay as they are,Medium,Low,Grace Liu,2026-09-24,Closed,2026-11-06
+P-302,302-01,Dependency,Identity platform release needed first,Low,Medium,Chen Wei,2026-11-20,Mitigating,2026-10-25
+P-302,302-02,Assumption,Existing interfaces stay as they are,Medium,High,Marta Silva,2026-10-15,Closed,2026-10-29
+P-302,302-03,Assumption,Existing interfaces stay as they are,Low,High,Jonas Berg,2026-11-30,Open,2026-10-24
+P-302,302-04,Risk,Key supplier resource leaves,Medium,Medium,Chen Wei,2026-10-14,Closed,2026-10-24
+P-302,302-05,Risk,Licence costs higher than the business case,Low,High,Chen Wei,2026-09-17,Closed,2026-10-31
+P-303,303-01,Risk,Test environment not ready in time,Low,High,Jonas Berg,2026-10-24,Closed,2026-11-07
+P-303,303-02,Risk,Key supplier resource leaves,Medium,High,Grace Liu,2026-12-20,Open,2026-11-06
+P-303,303-03,Dependency,Network change window from the infrastructure team,Medium,Low,Marta Silva,2027-01-13,Open,2026-11-03
+P-303,303-04,Risk,Key supplier resource leaves,Medium,Low,Jonas Berg,2027-01-14,Mitigating,2026-10-27
+P-304,304-01,Issue,Vendor delivery slipped by one sprint,,Medium,Alan Pierce,2027-01-07,Open,2026-11-01
+P-304,304-02,Risk,Test environment not ready in time,Low,Low,Marta Silva,2026-11-23,Open,2026-10-28
+P-304,304-03,Dependency,Network change window from the infrastructure team,Low,Medium,Jonas Berg,2026-11-29,Open,2026-10-30
+P-304,304-04,Risk,Business users not available for UAT,Medium,Medium,Alan Pierce,2026-10-15,Closed,2026-11-06
+P-304,304-05,Risk,Key supplier resource leaves,Medium,Medium,Jonas Berg,2026-12-07,Mitigating,2026-10-23
+P-305,305-01,Risk,Key supplier resource leaves,Medium,High,Jonas Berg,2026-10-04,Closed,2026-11-06
+P-305,305-02,Risk,Test environment not ready in time,Low,High,Nadia Petrova,2026-12-15,Mitigating,2026-10-24
+P-305,305-03,Risk,Licence costs higher than the business case,Low,High,Nadia Petrova,2026-09-18,Closed,2026-10-29
+P-306,306-01,Issue,Integration defects found in SIT,,Low,Jonas Berg,2026-10-10,Closed,2026-11-01
+P-306,306-02,Issue,Integration defects found in SIT,,Medium,Jonas Berg,2026-12-30,Open,2026-10-26
+P-306,306-03,Risk,Licence costs higher than the business case,Medium,High,Nadia Petrova,2026-12-28,Open,2026-10-26
+P-103,103-90,Dependency,SBC for Direct Routing delivered by the network team,Medium,Medium,,2026-10-23,Open,2026-09-29
+P-103,103-91,Issue,Carrier has not confirmed the number porting date,,Low,,2026-10-30,Open,2026-10-02
+P-103,103-92,Risk,Contact centre agents not trained before cutover,Low,High,,2026-11-02,Open,2026-10-05

@@ -1,0 +1,8 @@
+ProjectId,Release,PlannedDate,ChangeTicket,CabStatus
+P-105,Motor claims self-service R2,2026-11-12,CHG-30398,Approved
+P-205,E-signature go-live,2026-11-13,CHG-30412,Pending
+P-202,Customer app 3.0 beta,2026-11-26,CHG-30420,Pending
+P-203,Home quote and buy MVP,2026-12-03,CHG-30431,Approved
+P-304,Wave 3 core switch cutover,2026-12-17,CHG-30455,Approved
+P-305,Windows 11 final ring,2026-12-02,CHG-30447,Approved
+P-301,Wave 5 migration,2027-01-20,,Not raised
